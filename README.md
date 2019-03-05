@@ -16,7 +16,7 @@ cd twitter-crawler
 
 Install all requirements at once:
 ```powershell
-pip -r requirements.txt
+pip install -r requirements.txt
 ```
 Or install them one by one via *pip*:  
 ```sh
