@@ -20,7 +20,7 @@ pip install -r requirements.txt
 ```
 Or install them one by one via *pip*:  
 ```sh
-pip install tweetpy  
+pip install tweepy  
 ```  
 
 ### Setup Twitter authorization  
